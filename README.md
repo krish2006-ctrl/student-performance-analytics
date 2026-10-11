@@ -12,3 +12,10 @@ A Python data analytics system built using NumPy and Pandas to evaluate student 
 1. Install required packages:
    ```bash
    pip install numpy pandas
+Execute the script:
+python main.py
+
+## Grading & Evaluation Criteria
+- Grades: A+ (>=90%), A (>=80%), B (>=70%), C (>=60%), D (>=50%), F (<50%)
+
+- Passing Criteria: Minimum 40 marks in each subject, overall average >= 50%, and attendance >= 75%.
